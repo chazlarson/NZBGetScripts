@@ -20,7 +20,7 @@
 #
 # Version 1.0 (2014-06-01)
 # Version 2.0 (2019-04-20) Fixes/improvements/cleanup by Bun
-# Version 2.0.1 (2019-12-24) Minor tweak, stored in github
+# Version 2.0.1 (2019-12-24) Minor tweak by chazlarson, stored in github
 #
 
 ##############################################################################
