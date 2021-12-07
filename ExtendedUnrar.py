@@ -75,7 +75,7 @@ if not 'NZBOP_EXTENSIONS' in os.environ:
     print('[ERROR] This script requires NZBGet v18.0 or later')
     sys.exit(POSTPROCESS_ERROR)
 
-print('[INFO] Script successfully started - python %s' % sys.version_info)
+print('[INFO] Script successfully started - python %s' % sys.version_info.major)
 sys.stdout.flush()
 
 # Check nzbget.conf options
